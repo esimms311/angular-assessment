@@ -36,7 +36,7 @@ Product-details.html will be the hardest view to get working. You'll need to che
 After you have that id you'll need to make an api call to http://practiceapi.devmounta.in/products/ + the id being passed in the route.
 This will return the specific item based off the id you passed.
 Put that item on $scope and display in the view.
-
+x
 ``9``
 Host your solution on github pages.
 * Open the terminal to where this assessment is
